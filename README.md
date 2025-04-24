@@ -1,1 +1,1 @@
-# random-quote-generator-project
+# Small front end projects for basic skills
