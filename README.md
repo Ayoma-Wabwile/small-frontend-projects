@@ -1,1 +1,1 @@
-# Small front end projects for basic skills
+# Small front end projects
